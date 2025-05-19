@@ -5,6 +5,7 @@
 
 **aShield** est un bot Discord de **sécurité et de modération**, conçu pour assurer la protection des serveurs communautaires.  
 Il est développé en Python avec la bibliothèque `discord.py`, et intègre un système de permissions, d’alertes et de surveillance automatisée.
+### Accès au [aShield Wiki](https://github.com/orelienads/ashield-wiki)
 
 ---
 
