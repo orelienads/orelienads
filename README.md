@@ -31,7 +31,7 @@ Il est développé en Python avec la bibliothèque `discord.py`, et intègre un 
 
 ## 📫 Contact
 
-- GitHub : [`@oreliends`](https://github.com/oreliends)
+- GitHub : [`@orelienads`](https://github.com/orelienads)
 - Discord : `orelienads`
 
 ---
